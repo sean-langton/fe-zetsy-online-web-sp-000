@@ -5,6 +5,7 @@
 /*////////// Global Styles //////////*/
 
 body {
+	margin 0 auto;
 	background: #F3EBE9;
 	font-size: 100%;
 	font-family: 'Times New Roman', serif;
